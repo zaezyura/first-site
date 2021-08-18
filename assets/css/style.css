@@ -53,10 +53,10 @@ hr {
 
 /* Center */
 .container {
-    width: 100%;
-    max-width: 1230px;
-    padding: 0 15px;
-    margin: 0 auto;
+  width: 100%;
+  max-width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
 
 }
 
@@ -69,15 +69,14 @@ hr {
   color: #fff;
 }
 .intro-inner {
-    
-    text-align: center;
-    width: 100%;
-    max-width: 802px;
-    margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  max-width: 802px;
+  margin: 0 auto;
  }
  
 .intro-title:after {
-    content: "";
+  content: "";
   display: block;
   width: 60px;
   height: 3px;
@@ -109,7 +108,7 @@ hr {
 }
 
 .header.fixed {
-  padding: 10px 0;
+  padding: 15px 0;
 
   background-color: #eb8b8d;
   box-shadow: 0 3px 10px rgba(0, 0, 0, .2);
@@ -722,6 +721,7 @@ font-weight: 400;
   display: block;
   width: 210px;
   height: 210px;
+  border-radius: 50%;
   position: absolute;
   top: 0;
   left: 0;
